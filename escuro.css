@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    background-color: #202124;
+    color: white;
+}
+
+#header{
+    background-color: #303134;
+    padding: 10px;
+    text-align: center;
+    position:relative;
+}
+
+#button-light{
+    position: absolute;
+    margin-left: 40%;
+    top: 30%;
+}
+
+button{
+    height: 40px;
+    padding: 10px;
+    color: black;
+    background-color: gainsboro;
+    border: 1px solid white;
+    border-radius: 20px;
+}
+
+button:hover{
+    height: 40px;
+    padding: 10px;
+    color: white;
+    background-color:darkblue;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+
+#text{
+    text-align: center;
+}

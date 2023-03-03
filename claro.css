@@ -1,0 +1,38 @@
+body{
+    margin: 0;
+}
+
+#header{
+    background-color: aqua;
+    padding: 10px;
+    text-align: center;
+    position:relative;
+}
+
+#button-dark{
+    position: absolute;
+    margin-left: 40%;
+    top: 30%;
+}
+
+button{
+    height: 40px;
+    padding: 10px;
+    color: white;
+    background-color:rgb(88, 88, 231);
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+
+button:hover{
+    height: 40px;
+    padding: 10px;
+    color: white;
+    background-color:#202124;
+    border: 1px solid blue;
+    border-radius: 20px;
+}
+
+#text{
+    text-align: center;
+}
